@@ -1,0 +1,10 @@
+{
+  "firstName" : "demo",
+  "lastName" : "user",
+  "country" : "United States (US)",
+  "addressLineOne" : "San Francisco",
+  "city" : "San Francisco",
+  "state" : "California",
+  "postalCode" : "94188",
+  "email" : "JohnGreen@gmail.com"
+}
